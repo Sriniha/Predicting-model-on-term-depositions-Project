@@ -2,6 +2,7 @@
 This project focuses on analyzing customer behavior and predicting subscription likelihood using machine learning techniques. The goal is to help businesses improve customer retention strategies based on data-driven insights.
 
 **Key Steps & Methodology:**
+
 **1. Data Preprocessing & Feature Engineering:**
    1. Loaded and cleaned the dataset containing customer demographics, financial details, and previous interactions.
    2. Converted categorical variables into numerical format using one-hot encoding.
